@@ -43,3 +43,20 @@ The following steps were performed:
 - Verified that the data model was ready for analysis.
 
 Revenue was calculated using the quantity multiplied by the unit price from the Order_Items table.
+
+
+ 5. SQL Data Analysis
+
+SQL was used to explore the retail database and answer key business questions.
+
+The analysis involved:
+
+- Aggregating sales revenue using SUM().
+- Analyzing customer and product performance.
+- Using JOINs to combine data from multiple tables.
+- Applying GROUP BY and HAVING to summarize sales.
+- Using subqueries and CTEs for more complex analysis.
+- Using window functions such as RANK() and LAG() to rank performance and analyze monthly revenue trends.
+- Analyzing order statuses and customer purchasing patterns.
+
+The SQL queries used for this project are available in the SQL folder.
