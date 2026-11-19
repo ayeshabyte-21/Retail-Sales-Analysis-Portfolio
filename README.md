@@ -17,3 +17,13 @@ This analysis aims to answer the following business questions:
 - How does revenue change month by month?
 - What is the distribution of order statuses?
 - Which customers have placed multiple orders?
+
+3. Tools and Technologies
+
+The following tools were used to complete this project:
+
+- MySQL: Data querying, analysis, joins, aggregations, subqueries, and window functions.
+- Power BI: Data visualization, dashboard development, and reporting.
+- DAX: Creating calculated measures and KPIs.
+- Power Query: Data cleaning and transformation.
+- GitHub: Project documentation and portfolio management.
