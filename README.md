@@ -94,6 +94,9 @@ The analysis revealed several important findings:
 - Out of 20 total orders, 15 were delivered, representing 75% of all orders.
 - The average order value for delivered orders was 2,848.
 - Delivered orders accounted for the majority of total orders.
+- Laptop was the highest-revenue product.
+- Riyadh generated the highest revenue among all cities.
+- September recorded the highest monthly revenue during the analysis period.
 - The dashboard highlights differences in revenue across products, product categories, cities, and months.
 
 These insights provide an overview of business performance and customer purchasing patterns.
