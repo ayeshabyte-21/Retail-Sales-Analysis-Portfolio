@@ -27,3 +27,19 @@ The following tools were used to complete this project:
 - DAX: Creating calculated measures and KPIs.
 - Power Query: Data cleaning and transformation.
 - GitHub: Project documentation and portfolio management.
+
+
+4. Data Cleaning and Preparation
+
+The data was prepared using Power Query and Power BI.
+
+The following steps were performed:
+
+- Imported the Customers, Products, Orders, and Order_Items tables.
+- Checked column data types.
+- Checked for missing or null values.
+- Removed an unnecessary nested table column.
+- Created relationships between the tables using their respective IDs.
+- Verified that the data model was ready for analysis.
+
+Revenue was calculated using the quantity multiplied by the unit price from the Order_Items table.
