@@ -64,7 +64,7 @@ The SQL queries used for this project are available in the SQL folder.
 
 
 6. Power BI Dashboard
-
+![Retail Sales Dashboard](Screenshots/Retail_Dashboard.png)
 An interactive dashboard was developed using Power BI to visualize retail sales performance.
 
 The dashboard includes:
